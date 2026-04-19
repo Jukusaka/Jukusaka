@@ -1,4 +1,4 @@
-# Hi there, I'm Kamil Rochala! 👋 
+# Hi there, I'm Kamil Rochala, welcome to my profile! 👋 
 
 ### 👨‍💻 About Me
 - 🇵🇱 **Location:** Łódzkie, Poland.
@@ -19,10 +19,10 @@
 
 ---
 
-### 💼 Experience (Cyrek Creative)
-- **Front-end Programmer Internship (Jan 2026):** Recreated panbeczka.pl using Boilerplate components.
-- **Front-end Programmer Internship (Jul - Aug 2025):** Mastered n8n workflows and embedded AI Agents on websites.
-- **Front-end Programmer Internship (Feb 2025):** Developed my first WordPress website.
+### 💼 Experience 
+- **(Cyrek Creative) Front-end Programmer Internship (Jan 2026):** Recreated panbeczka.pl using Boilerplate components.
+- **(Cyrek Creative) Front-end Programmer Internship (Jul - Aug 2025):** Mastered n8n workflows and embedded AI Agents on websites.
+- **(Cyrek Creative) Front-end Programmer Internship (Feb 2025):** Developed my first WordPress website.
 
 ---
 
