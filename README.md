@@ -36,7 +36,7 @@
 
 ### 🗣️ Languages
 - **Polish:** Native
-- [cite_start]**English:** B2/C1
+- **English:** B2/C1
 
 ---
 
