@@ -1,14 +1,14 @@
 # Hi there, I'm Kamil Rochala, welcome to my profile!
 
-### 👨‍💻 About Me
-- 🇵🇱 **Location:** Łódzkie, Poland.
-- 🎓 **Education:** Currently training as an English-speaking Full-Stack Developer at Zgierski Zespół Szkół Ponadpodstawowych.
-- 🚀 **Passion:** I love programming, especially video games, and I'm always coming up with ideas for new projects and websites.
-- 💡 **Mindset:** I'm a lifelong learner, always open to mastering new tools for my career or just for the fun of it!
+### About Me
+- **Location:** Łódzkie, Poland.
+- **Education:** Currently training as an English-speaking Full-Stack Developer at Zgierski Zespół Szkół Ponadpodstawowych.
+- **Passion:** I love programming, especially video games, and I'm always coming up with ideas for new projects and websites.
+- **Mindset:** I'm a lifelong learner, always open to mastering new tools for my career or just for the fun of it!
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Tools & Languages |
 | :--- | :--- |
@@ -18,14 +18,14 @@
 
 ---
 
-### 💼 Experience 
+### Experience 
 - **(Cyrek Creative) Front-end Programmer Internship (Jan 2026):** Recreated panbeczka.pl using Boilerplate components.
 - **(Cyrek Creative) Front-end Programmer Internship (Jul - Aug 2025):** Mastered n8n workflows and embedded AI Agents on websites.
 - **(Cyrek Creative) Front-end Programmer Internship (Feb 2025):** Developed my first WordPress website.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jukusaka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jukusaka&layout=compact&theme=tokyonight"/>
@@ -33,13 +33,13 @@
 
 ---
 
-### 🗣️ Languages
+### Languages
 - **Polish:** Native
 - **English:** B2/C1
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-rochala-69a5493a0/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white)](https://gitlab.com/YOUR_GITLAB_USERNAME)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:rochalakamil2@gmail.com)
