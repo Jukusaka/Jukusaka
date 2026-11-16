@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, Juku here! ^o^
 
 <!--
 **Jukusaka/Jukusaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
